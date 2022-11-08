@@ -1,4 +1,5 @@
 
 icons/.DS_Store
 node_modules
+.next/cache
 *.pack
